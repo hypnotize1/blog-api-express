@@ -26,6 +26,6 @@ This project features a centralized Swagger configuration for clear and interact
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/blog-api-express.git](https://github.com/YOUR_USERNAME/blog-api-express.git)
+git clone [https://github.com/hypnotize1/blog-api-express.git](https://github.com/hypnotize1/blog-api-express.git)
 cd blog-api-express
 ```
