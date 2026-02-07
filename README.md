@@ -26,6 +26,36 @@ This project features a centralized Swagger configuration for clear and interact
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/hypnotize1/blog-api-express.git](https://github.com/hypnotize1/blog-api-express.git)
+git clone https://github.com/hypnotize1/blog-api-express.git
 cd blog-api-express
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Setup environment variables
+
+```bash
+Create a .env file in the root directory and add your credentials:
+```
+
+### 4. Run Migrations
+
+```bash
+npx prisma migrate dev
+```
+
+### 5. Start the Server
+
+```bash
+npm run dev
+```
+
+## 📚 API Documentation
+
+```bash
+After starting the server, you can access the interactive API documentation at: http://localhost:3000/api-docs
 ```
