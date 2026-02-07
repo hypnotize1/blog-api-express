@@ -5,7 +5,7 @@ This project features a centralized Swagger configuration for clear and interact
 
 ## 🌟 Key Features
 
-- **🔐 Authentication:** Secure Signup & Login using JWT & Bcrypt.
+- **🔐 Authentication:** Secure SignUp & Login using JWT & Bcrypt.
 - **📄 Post Management:** Create, Read, Update, and Delete (CRUD) posts.
 - **🖼️ Media Handling:** Image upload functionality using Multer.
 - **💬 Comment System:** Add and manage comments on posts.
@@ -26,6 +26,6 @@ This project features a centralized Swagger configuration for clear and interact
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/blog-api-swagger.git](https://github.com/YOUR_USERNAME/blog-api-swagger.git)
-cd blog-api-swagger
+git clone [https://github.com/YOUR_USERNAME/blog-api-express.git](https://github.com/YOUR_USERNAME/blog-api-express.git)
+cd blog-api-express
 ```
